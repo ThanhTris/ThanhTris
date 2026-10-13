@@ -15,63 +15,26 @@
 
 ## 👨‍💻 Behind the code
 
-I'm **Trí**, a fullstack developer exploring the intersection of **web development, AI agents, and automation**. My repositories span community platforms, commerce interfaces, blockchain warranties, and graph-based machine learning experiments.
+Hi, I'm **Nguyễn Thanh Trí** — a fullstack developer who enjoys turning everyday problems into useful software. I like connecting the pieces: a thoughtful interface, a clear API, and the data behind it.
+
+I learn best by building. My projects have taken me from **Java / Spring Boot and React** to **Next.js, mobile development, Web3, and graph machine learning**. Each one is a chance to ask better questions, understand a new system, and improve how I solve problems.
+
+Right now, I'm curious about **AI agents and workflow automation**: how tools can work together, reduce repetitive tasks, and make applications more useful. I'm exploring **n8n** and learning more about scalable system architecture along the way.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ Building & exploring</h3>
-      <p>Fullstack applications with <b>Spring Boot, Express, React, and Next.js</b>.</p>
-      <p>AI agent systems and <b>n8n</b> workflows that turn repetitive tasks into useful automation.</p>
+      <h3>💡 What drives me</h3>
+      <p>Solving practical problems, learning continuously, and building products that make a difference.</p>
+      <p>I enjoy collaborating with people who bring different ideas and perspectives to the same challenge.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌏 The next chapter</h3>
-      <p>Working toward becoming a <b>Bridge System Engineer (BrSE)</b>.</p>
-      <p>Learning system design and cross-cultural communication, with an interest in the <b>Japanese IT market</b>.</p>
+      <h3>🌏 Where I'm heading</h3>
+      <p>My goal is to become a <b>Bridge System Engineer (BrSE)</b>, combining technical depth with cross-cultural communication.</p>
+      <p>I'm interested in the <b>Japanese IT market</b> and how clear communication helps teams build better software together.</p>
     </td>
   </tr>
 </table>
-
-## 🚀 Selected projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ThanhTris/TLink"><img src="./assets/project-tlink.svg" width="100%" alt="TLink — IT community forum. Spring Boot, React, TypeScript, MySQL." /></a>
-      <p>Community discussions, threaded replies, Google sign-in, and a chatbot interface for guided post actions.</p>
-      <a href="https://github.com/ThanhTris/TLink">Explore TLink ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ThanhTris/Lumi-Beauty-FE"><img src="./assets/project-lumi.svg" width="100%" alt="Lumi Beauty — Commerce frontend. Next.js, TypeScript, Tailwind CSS, Zustand." /></a>
-      <p>Beauty storefront and admin interfaces, with product discovery, cart, checkout, and shared frontend modules.</p>
-      <a href="https://github.com/ThanhTris/Lumi-Beauty-FE">Explore Lumi Beauty ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ThanhTris/IE213"><img src="./assets/project-warranty.svg" width="100%" alt="E-Warranty — Hybrid Web3 project. React, Express, MongoDB, Solidity." /></a>
-      <p>Electronic warranties using ERC-721, MetaMask, Ethereum Sepolia, and IPFS alongside a conventional API.</p>
-      <a href="https://github.com/ThanhTris/IE213">Explore E-Warranty ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ThanhTris/IS353"><img src="./assets/project-care.svg" width="100%" alt="CARE-GNN — Research implementation. Python, PyTorch, scikit-learn." /></a>
-      <p>Spam review detection on YelpChi: an implementation of the published CARE-GNN model, with a GraphSAGE baseline and evaluation plots.</p>
-      <a href="https://github.com/ThanhTris/IS353">Explore CARE-GNN ↗</a>
-    </td>
-  </tr>
-</table>
-
-**🛠️ In progress — [Gì Cũng Được](https://github.com/ThanhTris/IE307)**<br />
-A group food-choice app being developed with **React Native, Expo, TypeScript, and Supabase/PostgreSQL local tooling**. Current work includes the mobile foundation, data preparation, and backend contracts.
-
-<details>
-<summary><b>More projects & coursework</b></summary>
-
-- [Library Web · IE103](https://github.com/ThanhTris/IE103) — React interfaces with a Java / Spring Boot / MySQL backend.
-- [Movie Reviews labs](https://github.com/ThanhTris/23521645-NguyenThanhTri-IE213.Q21) — React, Express, and MongoDB coursework.
-- [Sun Asterisk training](https://github.com/ThanhTris/-Sun-Asterisk---TI-Training) — UI reconstruction with HTML, CSS, Sass, and Tailwind; a React / TypeScript search frontend.
-
-</details>
 
 ## 🧩 Technology across my projects
 
