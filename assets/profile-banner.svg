@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">Nguyễn Thanh Trí — Fullstack Developer</title>
+<desc id="desc">Fullstack development, AI exploration, and a journey toward BrSE. A violet and cyan developer workspace.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#151626"/><stop offset="1" stop-color="#242442"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#7dcfff"/><stop offset=".5" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/></linearGradient>
+ <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#7aa2f7" opacity=".12"/></pattern>
+</defs>
+<rect width="1200" height="400" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="400" rx="20" fill="url(#dots)"/>
+<path d="M20 2h1160" stroke="url(#accent)" stroke-width="4"/>
+<circle cx="1070" cy="355" r="210" fill="#bb9af7" opacity=".04"/>
+<circle cx="1080" cy="360" r="160" fill="none" stroke="#bb9af7" opacity=".15"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+ <rect x="54" y="48" width="223" height="30" rx="15" fill="#7aa2f7" opacity=".12"/>
+ <circle cx="72" cy="63" r="4" fill="#7dcfff"/>
+ <text x="86" y="68" fill="#7dcfff" font-size="12" letter-spacing="2">HELLO WORLD / I'M TRÍ</text>
+ <text x="50" y="154" fill="#c0caf5" font-size="55" font-weight="700">Nguyễn Thanh Trí</text>
+ <text x="54" y="199" fill="#7aa2f7" font-size="24" font-weight="600">Code. Connect. Create.</text>
+ <text x="54" y="242" fill="#a9b1d6" font-size="18">Turning ideas into useful digital experiences.</text>
+ <rect x="54" y="282" width="127" height="34" rx="8" fill="#7aa2f7" opacity=".14"/>
+ <text x="73" y="304" fill="#7aa2f7" font-size="13">FULLSTACK</text>
+ <rect x="192" y="282" width="127" height="34" rx="8" fill="#7dcfff" opacity=".12"/>
+ <text x="209" y="304" fill="#7dcfff" font-size="13">AI EXPLORER</text>
+ <rect x="330" y="282" width="138" height="34" rx="8" fill="#bb9af7" opacity=".12"/>
+ <text x="348" y="304" fill="#bb9af7" font-size="13">FUTURE BrSE</text>
+ <text x="54" y="363" fill="#8994bc" font-size="13" letter-spacing="2">BUILDING WITH PURPOSE / LEARNING WITHOUT LIMITS</text>
+</g>
+<g transform="translate(755 88)">
+ <rect width="390" height="236" rx="14" fill="#11121f" stroke="#414868"/>
+ <path d="M0 40h390" stroke="#414868"/>
+ <circle cx="21" cy="20" r="5" fill="#f7768e"/><circle cx="39" cy="20" r="5" fill="#e0af68"/><circle cx="57" cy="20" r="5" fill="#9ece6a"/>
+ <g font-family="Consolas, monospace" font-size="15">
+ <text x="84" y="25" fill="#8994bc" font-size="12">tri / developer.ts</text>
+ <text x="24" y="78" fill="#bb9af7">const <tspan fill="#7dcfff">developer</tspan><tspan fill="#c0caf5"> = {</tspan></text>
+ <text x="42" y="111" fill="#c0caf5">stack: <tspan fill="#9ece6a">"fullstack"</tspan>,</text>
+ <text x="42" y="144" fill="#c0caf5">exploring: <tspan fill="#9ece6a">"AI agents"</tspan>,</text>
+ <text x="42" y="177" fill="#c0caf5">next: <tspan fill="#9ece6a">"BrSE"</tspan></text>
+ <text x="24" y="210" fill="#c0caf5">};<tspan fill="#7dcfff"> ▍</tspan></text>
+ </g>
+</g>
+</svg>
